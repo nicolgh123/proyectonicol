@@ -41,3 +41,8 @@ input[type="submit"] { /*Input type es el tipo de input que se va a utilizar*/
 input[type="submit"]:hover { /*Input hover es el input cuando el cursor está encima*/
   background-color: #45a049;
 }
+#nose{
+  background-color:blue ;
+  margin-left: 200px;
+  margin-top: 50px;
+}
